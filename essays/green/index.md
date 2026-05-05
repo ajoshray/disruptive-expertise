@@ -1,37 +1,37 @@
 ---
 title: "Solar Panels and the Energy Crisis"
 layout: scrollstory
-header-image: "carter solar.jpg"
-thumbnail: "carter solar.jpg"
-summary: When solar panels gained attention during the 1970s energy crisis, they did more than introduce a new energy source; they changed how people thought about energy, expertise, independence, and the future.
+header-image: "images/carter solar.jpg"
+thumbnail: "images/carter solar.jpg"
+summary: During the 1970s energy crisis, solar panels became more than just a new technology. They represented hope, uncertainty, and a different way of thinking about energy and the future.
 header-title: Solar Panels and the Energy Crisis
-header-subtitle: How Renewable Energy Disrupted Trust in Fossil Fuels
+header-subtitle: How Renewable Energy Changed the Way People Thought About the Future
 header-position: center
 ---
 
 # Solar Panels and the Energy Crisis
 
-In the 1970s, the United States faced an energy crisis that changed how people thought about power, technology, and the future. Gas shortages, rising prices, and global political tensions made energy feel uncertain in a way many Americans had not experienced before.
+In the 1970s, many Americans suddenly realized how dependent everyday life was on oil. Long lines at gas stations, rising fuel prices, and fears about shortages made energy feel uncertain in a way it never had before. People were frustrated, confused, and looking for alternatives.
 
-At the center of this moment was a new and unfamiliar idea: solar energy. Solar panels offered a different vision of energy because they suggested that power could come directly from the sun instead of from oil fields, coal mines, or large centralized power plants.
+During this period, solar energy started gaining attention as a possible solution. Solar panels, which use sunlight to generate electricity, offered a very different vision of energy. Instead of depending entirely on oil companies and large power systems, people began imagining a future where homes and communities could produce energy from the sun.
 
-This made solar energy exciting, but also controversial. Some people saw it as the future of American independence and environmental responsibility, while others believed it was too expensive, unreliable, and unrealistic to replace fossil fuels.
+To some people, this idea felt exciting and hopeful. To others, it seemed unrealistic and too expensive to ever work on a large scale. The debates surrounding solar energy reflected larger questions about trust, expertise, and how society reacts when new technologies challenge familiar systems.
 
 ---
 
 ## The Technology
 
 {% capture tech_text %}
-Solar energy technology uses sunlight to produce heat or electricity. While simple solar heating systems existed before the 1970s, modern solar panels became more important after World War II, especially through scientific research connected to satellites and space technology.
+Solar energy technology works by converting sunlight into electricity. While earlier forms of solar heating already existed, modern solar panels became more advanced after World War II through scientific research connected to satellites and space exploration.
 
-At first, solar panels were not something most people expected to see on homes or businesses. They were expensive, experimental, and mostly used in specialized situations where traditional power sources were not practical. Still, the basic idea was powerful: sunlight could be converted into usable electricity.
+At first, solar panels were expensive and mostly used in specialized settings rather than ordinary homes. Even so, the technology attracted attention because it introduced the possibility of using a renewable energy source that did not rely on fossil fuels.
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="solar.jpg"
+  image-path="images/solar.jpg"
   image-position="right"
   image-width="45%"
-  caption="Early solar panels were expensive and experimental, but they introduced the idea that sunlight could be turned into usable electricity."
+  caption="Early solar technology introduced the possibility that sunlight could become a practical energy source."
   text=tech_text
 %}
 
@@ -40,16 +40,16 @@ At first, solar panels were not something most people expected to see on homes o
 ## The Moment of Rupture
 
 {% capture rupture_text %}
-The major turning point for solar energy came during the 1970s energy crisis. The 1973 oil embargo and the 1979 oil shock caused rising fuel prices, long gas lines, and growing fear that the United States was too dependent on foreign oil.
+The major turning point for solar energy came during the 1970s energy crisis. The 1973 oil embargo and the 1979 oil shock caused fuel shortages, rising prices, and panic across the United States. Americans waited in long lines for gasoline, and many people began questioning whether the country’s dependence on oil was sustainable.
 
-Before this crisis, many Americans assumed that fossil fuels would remain cheap and available. The crisis disrupted that belief and made energy a public issue instead of just a technical one. Solar energy suddenly became more than a scientific experiment; it became a possible answer to a national problem.
+Before the crisis, most people assumed energy would remain cheap and easily available. That belief suddenly changed. Solar energy no longer seemed like a distant scientific experiment. Instead, it started to look like a possible answer to a national problem.
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="1970 energy.jpg"
+  image-path="images/1970 energy.jpg"
   image-position="left"
   image-width="45%"
-  caption="The 1970s energy crisis made many Americans question whether fossil fuels could be trusted as the country’s main energy source."
+  caption="The energy crisis of the 1970s forced Americans to reconsider their dependence on fossil fuels."
   text=rupture_text
 %}
 
@@ -59,22 +59,24 @@ Before this crisis, many Americans assumed that fossil fuels would remain cheap 
 
 {% include typography/pullquote.html text="\"Solar energy is feasible and cost-effective.\" — Jimmy Carter, 1979" %}
 
-Reactions to solar energy in the 1970s were mixed because people disagreed about what the technology could realistically do.
+People reacted to solar energy in very different ways.
 
-Some political leaders were optimistic. President Jimmy Carter became one of the most visible supporters of solar energy when he installed solar panels on the White House in 1979. For Carter, solar power represented innovation, conservation, and a future where the United States could become less dependent on oil.
+Some political leaders believed renewable energy could help the United States become more independent and environmentally responsible. President Jimmy Carter became one of the strongest public supporters of solar energy when he installed solar panels on the White House in 1979. In speeches and public remarks, Carter described solar energy as an important investment in the country’s future.
 
-Environmental advocates also supported solar energy because they believed it could create a cleaner and more democratic energy system. Instead of relying only on large companies and centralized power plants, solar panels suggested that individuals and communities could take more control over how energy was produced.
+Environmental advocates also supported solar technology because they believed it could reduce pollution and make energy systems less dependent on large corporations and centralized power plants. To supporters, solar panels represented innovation, sustainability, and greater independence.
 
-However, many experts and policymakers were skeptical. They argued that solar energy was too expensive, too inconsistent, and not powerful enough to support a modern industrial society. These critics did not always reject solar completely, but they doubted that it could replace fossil fuels quickly.
+At the same time, many experts and policymakers were skeptical. Critics argued that solar panels were too expensive, inefficient, and unreliable to power a modern industrial society. Some believed fossil fuels would remain more practical and affordable for decades to come.
+
+These disagreements revealed that the debate was never only about technology. It was also about whose vision of the future people trusted most.
 
 ---
 
 {% include images/jumbotron.html
-  image-path="carter solar.jpg"
+  image-path="images/carter solar.jpg"
   height="80vh"
   background-position="center"
   box-align="left"
-  text="In 1979, solar panels were installed on the White House, turning solar energy into a national symbol of innovation, conservation, and energy independence."
+  text="President Jimmy Carter’s White House solar panels became one of the most recognizable symbols of renewable energy during the 1970s."
 %}
 
 ---
@@ -82,16 +84,18 @@ However, many experts and policymakers were skeptical. They argued that solar en
 ## What Actually Happened
 
 {% capture outcome_text %}
-In the short term, the most optimistic predictions about solar energy did not come true. Solar panels did not quickly replace fossil fuels, and government support declined during the 1980s as political priorities changed.
+In the short term, solar energy did not transform society as quickly as supporters hoped. Government interest declined during the 1980s, and fossil fuels continued to dominate the energy industry for many years.
 
-Over time, however, solar technology improved. Panels became cheaper, more efficient, and easier to install. What once seemed unrealistic became increasingly practical, especially as concerns about climate change and energy independence grew stronger in the twenty-first century.
+However, solar technology slowly improved over time. Panels became cheaper, more efficient, and more widely available. Reports from organizations like the Department of Energy and the Solar Energy Industries Association now show that solar energy has become one of the fastest-growing sources of electricity in the United States.
+
+Although the transition happened more slowly than many people expected, the long-term impact of solar energy became much larger than many early critics predicted.
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="modern solar.jpg"
+  image-path="images/modern solar.jpg"
   image-position="right"
   image-width="45%"
-  caption="Modern solar farms show how solar technology eventually became more practical and widespread, even though early predictions took decades to develop."
+  caption="Modern solar farms show how renewable energy eventually became more practical and widespread despite early skepticism."
   text=outcome_text
 %}
 
@@ -99,42 +103,58 @@ Over time, however, solar technology improved. Panels became cheaper, more effic
 
 ## The Deeper Question
 
-The debate over solar energy was not only about electricity. It was also about trust.
+The history of solar panels was never just about electricity. It also reflected larger questions about trust and authority.
 
-Who should decide the future of energy: government officials, engineers, oil companies, environmental activists, or ordinary people? Solar panels challenged older systems because they suggested that energy could be produced in smaller, more local ways.
+Who should shape the future of energy? Government officials, scientists, corporations, or ordinary people? Solar energy challenged traditional systems because it introduced the possibility that energy production could become more local and decentralized.
 
-This disrupted traditional expertise. Energy had usually been controlled by large institutions, but solar power opened the possibility that homeowners and communities could participate in energy production themselves.
+In this way, solar panels disrupted not only the energy industry, but also older assumptions about expertise and control.
 
 ---
 
 ## Connection to AI
 
-The history of solar energy connects to current debates about artificial intelligence because both technologies created excitement and fear at the same time.
+The debates surrounding solar energy in the 1970s feel very similar to conversations about artificial intelligence today.
 
-Supporters of AI argue that it can solve major problems, speed up work, and expand access to knowledge. Critics worry that AI may be unreliable, biased, expensive, or controlled by powerful companies. These arguments sound similar to the debates around solar energy in the 1970s.
+Both technologies created excitement and fear at the same time. Supporters believed they could improve society and solve major problems, while critics worried about reliability, cost, and unintended consequences.
 
-Both technologies force people to ask important questions: Who should be trusted? Who benefits from the technology? What risks are being ignored? Solar energy shows that new technologies often take longer to develop than people expect, but they can still reshape society in major ways.
+Like solar energy, AI forces people to ask important questions about trust. Who controls the technology? Who benefits from it? And how do we decide whether the promises being made are realistic?
+
+Looking at the history of solar energy shows that new technologies often create uncertainty before society fully understands how they will shape the future.
 
 ---
 
 ## How I Used AI for This Essay
 
-I used AI as a research assistant to help me organize my topic, understand the 1970s energy crisis, and create a clearer structure for my essay. AI was helpful for brainstorming sections, improving sentence flow, and connecting solar energy to larger questions about trust and expertise.
+I used AI during this project to help organize ideas, summarize information, and better understand the historical context surrounding solar energy and the 1970s energy crisis.
 
-However, I did not treat AI as a final authority. AI can simplify history too much, and it can sometimes make claims that need to be checked. Because of this, I used real sources such as presidential speeches, historical documents, and energy history materials to verify the most important information.
+At the same time, I learned that AI can oversimplify historical debates and sometimes present information too confidently. Because of this, I checked important claims against real documents and historical sources.
 
-Using AI changed my research process because it made me focus more on checking accuracy. Instead of simply accepting information, I had to compare AI’s suggestions with actual sources and decide what evidence was reliable.
+Using AI changed my research process because it shifted my focus from simply gathering information to carefully verifying it. Instead of accepting summaries automatically, I had to compare different sources and think critically about which information was reliable.
 
 ---
 
-## Bibliography
+## Sources (NotebookLM)
 
-Carter, Jimmy. “President Jimmy Carter’s Remarks at the White House Solar Panel Dedication Ceremony, 1979.” *The American Presidency Project*, University of California, Santa Barbara.
-
-Carter, Jimmy. “Solar Energy Message to the Congress.” *The American Presidency Project*, University of California, Santa Barbara.
-
-Carter, Jimmy. “Solar Energy Remarks Announcing Administration Proposals.” *The American Presidency Project*, University of California, Santa Barbara.
-
-“NPC 9M-0466: White House Solar Panel Dedication.” *National Archives Catalog*.
-
-“What Happened to Carter’s White House Solar Panels? They Lived On.” *EFI Foundation*.
+- Analysis Of The IRENA Renewable Capacity Statistics 2025 Report - M24 Sunshine  
+- Annual Energy Outlook 2026 - EIA  
+- Electric Power Monthly with data for January 2026 - EIA  
+- Environmental Policy: Carter vs. Reagan | The Emerald Review  
+- International Energy Outlook 2023 Narrative - EIA  
+- Monthly Energy Review - EIA  
+- NPC 9M-0466: White House Solar Panel Dedication  
+- National Transmission Needs Study - Department of Energy  
+- President Carter's Vision Helped Launch SERI and NREL | NLR  
+- President Jimmy Carter's Remarks at White House Solar Panel Dedication Ceremony, 1979  
+- REPORT: U.S. Adds 43 GW of New Solar Capacity in 2025, Marking Fifth Straight Year as Top Source of New Power – SEIA  
+- Renewable Capacity Highlights 2025 - IRENA  
+- Solar Energy Message to the Congress. | The American Presidency Project  
+- Solar Energy Remarks Announcing Administration Proposals  
+- Solar Energy Toolkit: The Federal and State Context: Policies Affecting Solar Energy Development | SolSmart  
+- Solar Energy, Technology Policy, and Institutional Values by Frank N. Laird  
+- Solar Futures Study Fact Sheet - Department of Energy  
+- Taking stock: Bipartisan support for clean firm energy endures in an era of federal policy uncertainty  
+- The US solar industry navigated unprecedented change in 2025 - Wood Mackenzie  
+- Total Energy Reports - U.S. Energy Information Administration (EIA)  
+- US State Energy Data System (SEDS) - EIA  
+- What Happened to Carter's White House Solar Panels? They Lived On. - EFI Foundation  
+- doe-fy-2022-2026-strategic-framework.pdf - Department of Energy
