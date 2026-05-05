@@ -42,7 +42,7 @@ At first, solar panels were expensive and mostly used in specialized settings ra
 {% capture rupture_text %}
 The major turning point for solar energy came during the 1970s energy crisis. The 1973 oil embargo and the 1979 oil shock caused fuel shortages, rising prices, and panic across the United States. Americans waited in long lines for gasoline, and many people began questioning whether the country’s dependence on oil was sustainable.
 
-Before the crisis, most people assumed energy would remain cheap and easily available. That belief suddenly changed. Solar energy no longer seemed like a distant scientific experiment. Instead, it started to look like a possible answer to a national problem.
+Before the crisis, most people assumed energy would remain cheap and easily available. That belief suddenly changed. Solar energy no longer seemed like a distant scientific experiment. Now it looked like the solution.
 {% endcapture %}
 
 {% include images/figure-wrap.html
@@ -86,9 +86,9 @@ These disagreements revealed that the debate was never only about technology. It
 {% capture outcome_text %}
 In the short term, solar energy did not transform society as quickly as supporters hoped. Government interest declined during the 1980s, and fossil fuels continued to dominate the energy industry for many years.
 
-However, solar technology slowly improved over time. Panels became cheaper, more efficient, and more widely available. Reports from organizations like the Department of Energy and the Solar Energy Industries Association now show that solar energy has become one of the fastest-growing sources of electricity in the United States.
+However, solar technology slowly improved over time. Panels became cheaper, more efficient, and more widely available. Reports from organizations like the Department of Energy and the Solar Energy Industries Association now show that solar energy has become one of the fastest growing sources of electricity in our country.
 
-Although the transition happened more slowly than many people expected, the long-term impact of solar energy became much larger than many early critics predicted.
+Although the transition happened more slowly than many people expected, the big long term impact of solar energy became much larger than many early critics predicted.
 {% endcapture %}
 
 {% include images/figure-wrap.html
@@ -137,13 +137,13 @@ Using AI changed my research process because it shifted my focus from simply gat
 
 This project was built around the assignment goal of using AI critically rather than treating it as an authority. I used AI and NotebookLM to help brainstorm research questions, summarize long sources, organize the essay, and connect solar energy to larger debates about trust and expertise.
 
-However, I also learned that AI can leave out important historical nuance. For example, it can make the history of solar energy sound like a simple story of progress, when the real history included political conflict, skepticism, changing government priorities, and disagreement over whether solar power was realistic.
+However, I also learned that AI can leave out important historical nuance. For example, it can make the history of solar energy sound like a simple story of progress, when the real history included political conflict, skepticism, changing government priorities, and disagreement over whether solar power was realistic. Going over some of these in the president cart articles helped me realize that.
 
 To avoid relying only on AI, I checked important claims against real sources. I used primary sources such as President Jimmy Carter’s 1979 White House solar panel dedication remarks and his solar energy messages to Congress. These sources helped show how people at the time actually talked about solar energy, rather than only how later sources summarized it.
 
 I also used modern reports from organizations like the Department of Energy, EIA, IRENA, and SEIA to understand what happened later. These sources helped me compare early hopes and fears about solar energy with its long-term development.
 
-Because of this, my research process became less about accepting information quickly and more about verifying it. AI helped me get started, but the final project depended on checking sources, comparing claims, and deciding what evidence was trustworthy.
+Because of this, my research process became less about accepting information quickly and more about verifying it. AI helped me get started, but the final project depended on checking sources, going back and reviewing my sources to ensure that AI was not faulty in any way.
 
 ---
 
